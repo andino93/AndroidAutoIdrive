@@ -30,6 +30,17 @@ Download the APK from the [Releases page](https://github.com/hufman/AndroidAutoI
 
 Check out the [FAQ](https://hufman.github.io/AndroidAutoIdrive/faq.html) if you run into problems.
 
+User Guide
+----------
+
+![Phone Connection](https://hufman.github.io/AndroidAutoIdrive/screenshot-connection.png)
+
+After connecting the phone to the car (over USB, or Bluetooth with a new enough car), the official Connected app should show this car icon in the status bar. When this icon appears, this app should connect and add its functionality to the car.
+
+![Music App List](https://hufman.github.io/AndroidAutoIdrive/screenshot-musicapplist.jpg)
+
+Several new entries will be added to the Media section of the control screen. The Audioplayer icon is the one with the main functionality, while the other displayed apps are only quick shortcuts to switch playback.
+
 Implemented Features
 --------------------
 
